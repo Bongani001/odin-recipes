@@ -1,0 +1,29 @@
+.back {
+    color: black;
+}
+
+.main-head {
+    color:#00b300;
+}
+
+.recipe-link {
+    color: orange;
+}
+
+h1 {
+    color: limegreen;
+}
+
+#image {
+    height: auto;
+    width: 300px;
+}
+
+h2 {
+    color: limegreen;
+}
+
+h3 {
+    color: limegreen;
+    text-align: center;
+}
