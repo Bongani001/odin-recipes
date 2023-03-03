@@ -5,4 +5,3 @@
 <li>The aim of this project is to see how far I have come upon leaning web development 
 through The Odin Project.</li>
 </ul>
-.,
